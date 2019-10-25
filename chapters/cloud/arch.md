@@ -136,7 +136,7 @@ support of data services only.
 
 ### Internet Computing
 
-With the ocurance of the WWW protocols, internet commuting brought to
+With the occurance of the WWW protocols, internet commuting brought to
 the consumers a global computer network providing a variety of
 information and communication facilities.
 
